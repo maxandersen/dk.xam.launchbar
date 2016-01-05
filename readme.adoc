@@ -1,0 +1,10 @@
+= xam.dk launchbar scripts
+
+Repo for my launchbar scripts.
+
+== Toggle VPN
+
+Lists VPN services and allow you to toggle VPN on/off.
+Based on https://github.com/ctwise/alfred-workflows/tree/master/vpn-toggle
+
+
