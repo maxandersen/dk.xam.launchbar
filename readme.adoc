@@ -5,6 +5,10 @@ Repo for my launchbar scripts.
 == Toggle VPN
 
 Lists VPN services and allow you to toggle VPN on/off.
-Based on https://github.com/ctwise/alfred-workflows/tree/master/vpn-toggle
+Based on https://github.com/ctwise/alfred-workflows/tree/master/vpn-toggle.
+
+Author reported the content is Public Domain on https://github.com/ctwise/alfred-workflows/issues/18
+
+
 
 
