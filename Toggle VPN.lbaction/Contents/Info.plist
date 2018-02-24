@@ -32,7 +32,7 @@
 			<key>LBResultType</key>
 			<string>unknown</string>
 			<key>LBScriptName</key>
-			<string>toggle.rb</string>
+			<string>toggle.scpt</string>
 		</dict>
 		<key>LBSuggestionsScript</key>
 		<dict>
