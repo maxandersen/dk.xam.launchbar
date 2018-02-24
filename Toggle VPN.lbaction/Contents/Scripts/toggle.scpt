@@ -1,3 +1,6 @@
+-- Inspired by:
+-- https://gist.github.com/adgedenkers/3874427
+
 on handle_string(vpnName)
   tell application "System Events"
     tell current location of network preferences
