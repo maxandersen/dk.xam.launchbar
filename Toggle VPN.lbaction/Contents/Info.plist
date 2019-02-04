@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>icon.png</string>
 	<key>CFBundleIdentifier</key>
-	<string>dk.xam.launchbar.toogleVPN</string>
+	<string>dk.xam.launchbar.toggleVPN</string>
 	<key>CFBundleName</key>
 	<string>Toggle VPN</string>
 	<key>CFBundleVersion</key>
@@ -32,7 +32,7 @@
 			<key>LBResultType</key>
 			<string>unknown</string>
 			<key>LBScriptName</key>
-			<string>toggle.rb</string>
+			<string>toggle.scpt</string>
 		</dict>
 		<key>LBSuggestionsScript</key>
 		<dict>
